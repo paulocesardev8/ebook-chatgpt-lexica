@@ -25,12 +25,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de trafego pago, o ebook é do nicho de marketing e o subnicho é de meta ads, o título deve ser épico e curto, e tenha uma temática de futuristica no título, me liste 5 variações de títulos                                                        |
-| conteúdo | faça um texto para ebook, com foco em tráfego pago, listando os principais erros cometidos no gerenciador de anuncios com exemplos reais.
-{REGRAS}
-> Explique sempre de uma maneira simples
-> Deixe o texto enxuto
-> Sempre traga exemplos de código em contextos reais
-> Sempre deixe um título sugestivo por tópico
+| conteúdo | faça um texto para ebook, com foco em tráfego pago, listando os principais erros cometidos no gerenciador de anuncios com exemplos reais. {REGRAS} > Explique sempre de uma maneira simples > Deixe o texto enxuto > Sempre traga exemplos de código em contextos reais > Sempre deixe um título sugestivo por tópico
  |
 
 
